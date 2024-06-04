@@ -1,0 +1,203 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Perpustakaan
+</name>
+</assembly>
+<members>
+<member name="T:Perpustakaan.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Perpustakaan.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Perpustakaan.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Perpustakaan.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Perpustakaan.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Perpustakaan.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:Perpustakaan.header._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.header._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._Label4">
+<summary>
+Label4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._ddKategori">
+<summary>
+ddKategori control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._txtCari">
+<summary>
+txtCari control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._btnCari">
+<summary>
+btnCari control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._LBSearch">
+<summary>
+LBSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.BerandaPub._gvSearch">
+<summary>
+gvSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.KoleksiPub._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.KoleksiPub._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.KoleksiPub._ChrPie">
+<summary>
+ChrPie control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.KoleksiPub._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.KoleksiPub._ChrBar">
+<summary>
+ChrBar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.KontakKamiPub._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.KontakKamiPub._LblInformasi">
+<summary>
+LblInformasi control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Perpustakaan.ProfilPustakawan._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
